@@ -25,7 +25,7 @@ It blends human tone, product clarity, and Web3 engagement psychology.
 
 ## 📣 2. Caption Formats
 
-### 🪄 Product Update Format (X & Telegram)
+### 🪄 Product Update Format (X & TG)
 
 ```
 🚨 New Feature Drop
